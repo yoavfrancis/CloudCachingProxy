@@ -5,7 +5,7 @@ A scalable caching proxy based on Amazon Web Services
 
 ### Setup notes : 
 
-The "files_to_upload" folder contains the files required for the proxy AMI creation and it is not be touched.
+The "files_to_upload" folder contains the files required for the proxy AMI creation and is not to be modified.
 
 In order to create the cloud orchestration, run the setup() function from setup.py.
 After the orchestration is finished you'll be displayed with the proxy public address (it runs on port 8080) - this is the address of the load balancer that sits behind the auto-scaled EC2 instances.
