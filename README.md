@@ -24,4 +24,4 @@ Joint work by [Yoav Francis](https://www.linkedin.com/in/yoavfrancis) and Tomer 
 
 ### Licensing
 
-Please contact the authors for explicit usage permission in commercial software. Otherwise LGPL.
+Please contact the authors for explicit usage permission in commercial software. Otherwise LGPL 3.0.
