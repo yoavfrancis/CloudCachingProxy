@@ -21,3 +21,7 @@ A PPT describing the project is available [here](http://www.slideshare.net/YoavF
 ### Author
 
 Joint work by [Yoav Francis](https://www.linkedin.com/in/yoavfrancis) and Tomer Cagan for Cloud Computing Course, IDC Herzelia 2013
+
+### Licensing
+
+Please contact the authors for explicit usage permission in commercial software. Otherwise LGPL.
